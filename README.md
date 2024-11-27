@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dieuveil Mahoukou</h1>
 <h3 align="center">I'm a software engineer from Tunisia</h3>
 
-- 🔭 I’m currently working on **Flutter, Spring, Angular and React.js**
+- 🔭 I’m currently working on **Flutter, Spring Boot, Angular and React.js, .Net**
 
-- 👯 I’m looking to collaborate on **Flutter projects**
+- 👯 I’m looking to collaborate on **Flutter projects, .Net, SpringBoot**
 
 - 📫 How to reach me **dieuveil.parker.dev@gmail.com**
 
